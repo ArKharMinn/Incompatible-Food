@@ -6,7 +6,7 @@ A Myanmar-language web application that helps you identify dangerous food combin
 
 ## **Demo**
 
-![Incompatible Food Demo](./image.png)
+![Incompatible Food Demo](./food.png)
 
 ---
 
